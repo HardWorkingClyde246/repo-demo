@@ -4,3 +4,6 @@
 ##subheader
 
 change it hehe
+
+## Local development
+1. Oopen index.html in your browser.
